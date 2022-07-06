@@ -111,6 +111,9 @@ main img.ethereum {
 }
 main img.aavegrantsdao {
 	width: 100px;
+.bg-dark {
+    background-color: #1a0825;
+    color: white;
 }
 @media (max-width: 1199px) and (min-width: 992px) {
 	main {
